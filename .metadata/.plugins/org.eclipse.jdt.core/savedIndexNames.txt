@@ -1,4 +1,2 @@
 INDEX VERSION 1.134+/home/fabio/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-1771814865.index
 1865797976.index
-1614532366.index
