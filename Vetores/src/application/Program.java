@@ -14,7 +14,7 @@ public class Program {
 		int n = sc.nextInt();
 		double[] vect = new double[n];
 		
-		for (int i=0; i<n; i++) {
+444
 			
 			vect[i] = sc.nextDouble();
 		}
