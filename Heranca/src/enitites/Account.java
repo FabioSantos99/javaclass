@@ -8,7 +8,6 @@ public abstract class Account {
 	
 	public Account() {
 		
-		
 	}
 
 	public Account(Integer number, String holder, Double balance) {
@@ -17,8 +16,6 @@ public abstract class Account {
 		this.holder = holder;
 		this.balance = balance;
 	}
-	
-	
 
 	public Integer getNumber() {
 		return number;
