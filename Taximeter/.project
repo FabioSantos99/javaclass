@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Wildcard2</name>
+	<name>Taximeter</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1705453312749</id>
+			<id>1705453312744</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
