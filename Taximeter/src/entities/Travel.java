@@ -1,13 +1,10 @@
 package entities;
 
-import java.time.LocalDate;
-
 public class Travel {
 	
 	private double price;
 	private double meters;
 	private double totalValue;
-	
 	
 	public Travel() {
 		
@@ -41,9 +38,6 @@ public class Travel {
 
 	public void setTotalValue(double totalValue) {
 		this.totalValue = totalValue;
-	}
-	
-	
-	
+	}	
 
 }
