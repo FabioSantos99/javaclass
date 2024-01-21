@@ -1,12 +1,12 @@
 package entities;
 
-public class Employee {
-	
+public class Product {
+
 	private String name;
 	private String email;
 	private double salary;
 	
-	public Employee(String name, String email, double salary) {
+	public Product(String name, String email, double salary) {
 		this.name = name;
 		this.email = email;
 		this.salary = salary;
@@ -36,7 +36,11 @@ public class Employee {
 		this.salary = salary;
 	}
 	
+	public String toString() {
+		return name + ", " + email + ", " + salary;
+	}
 	
 	
-
+	
+	
 }
